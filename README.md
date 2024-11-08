@@ -1,4 +1,4 @@
-# Project-01
+ # Project-01
 First github project
 <br>
-Author: Srija
+Author: Srija (student)
